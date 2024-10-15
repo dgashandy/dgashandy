@@ -2,7 +2,6 @@
 
 **Data Engineer** (currently) | Also:
 - Fullstack Developer  
-- Front-End Developer  
 - Data Scientist  
 
 I specialize in managing and processing large datasets, building full-stack web applications, and developing machine learning models. I enjoy creating data-driven solutions and contributing to efficient workflows.
