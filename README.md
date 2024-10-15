@@ -7,6 +7,14 @@
 
 I specialize in managing and processing large datasets, building full-stack web applications, and developing machine learning models. I enjoy creating data-driven solutions and contributing to efficient workflows.
 
+## 🌐 **Connect with me**:
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github)](https://github.com/dgashandy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-daffa-gashandy/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?id=your-google-scholar-id)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord)](https://discord.com/users/@piggyassault)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCrM1KZqDtkieb-jU1ynUTug)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/dgashandy/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:dgashandy@gmail.com)
 ---
 
 ## 🌟 **Tech Stack**:
