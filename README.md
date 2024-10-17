@@ -14,6 +14,14 @@ I specialize in managing and processing large datasets, building full-stack web 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCrM1KZqDtkieb-jU1ynUTug)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/dgashandy/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:dgashandy@gmail.com)
+
+---
+
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dgashandy&show_icons=true&theme=radical" alt="Daffa's GitHub Stats" style="width: 50%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgashandy&layout=compact&theme=radical" alt="Most Used Languages" style="width: 50%;">
+</div>
+
 ---
 
 ## 🌟 **Tech Stack**:
@@ -43,8 +51,3 @@ I specialize in managing and processing large datasets, building full-stack web 
 ### Additional Tools:
 ![Node-RED](https://img.shields.io/badge/-Node--RED-8F0000?style=flat&logo=nodered)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)
-
----
-
-## 📈 **GitHub Stats**:
-![Daffa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dgashandy&show_icons=true&theme=radical)
