@@ -19,7 +19,7 @@ I specialize in managing and processing large datasets, building full-stack web 
 
 <div style="display: flex; justify-content: center; height: 200px; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=dgashandy&show_icons=true&theme=radical" alt="Daffa's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgashandy&layout=compact&theme=radical" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgashandy&layout=compact&theme=radical" alt="Most Used Languages" style="height: 195px;">
 </div>
 
 ---
